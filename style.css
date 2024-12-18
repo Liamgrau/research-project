@@ -5,7 +5,7 @@ HERO SECTION
 */
 .hero-section {
     background-color: aquamarine;
-    background-image: url("COD.jpeg");
+    background-image: url("img/COD.jpeg");
     background-position: center;
     background-size: cover;
   }
